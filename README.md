@@ -1,1 +1,1 @@
-# EasyCapsule
+# EazyCapsule
